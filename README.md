@@ -45,7 +45,7 @@ Integrated **DeepSeek LLM** to generate teaching strategies and learning suggest
 
 ## Academic Context
 
-Developed as part of **TDLL7355 — AI-Powered Learning Analytics System Design Workshop**, MSc Technology, Design and Leadership for Learning, The University of Hong Kong (HKU), March 2026.
+Developed as part of **TDLL7355 — AI-Powered Learning Analytics Workshop - Group 3**, MSc Technology, Design and Leadership for Learning, The University of Hong Kong (HKU), March 2026.
 
 ## References
 
